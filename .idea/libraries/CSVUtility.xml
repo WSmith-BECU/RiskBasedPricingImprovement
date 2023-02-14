@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CSVUtility">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Desktop/BatchScriptTemplates/lib/CSVUtility.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
