@@ -3,8 +3,7 @@ package com.blueeaglecreditunion.script;
 public class SQL {
 
     public static String queryOne () {
-        return "SELECT rBPE.SERIAL,\n" +
-                "       rBPE.RATE\n" +
+        return "SELECT rBPE.SERIAL\n" +
                 "\n" +
                 "FROM CORE.RISK_BASED_PRICING_ENTRY AS rBPE\n" +
                 "\n" +
