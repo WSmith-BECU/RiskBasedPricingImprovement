@@ -1,7 +1,7 @@
 package com.blueeaglecreditunion.script;
 
 public class myPassword {
-    private static String pass = "F33u-2na8";
+    private static String pass = "Black@rose";
     private static String username = "wsmith";
     private static String databaseName = "jdbc:db2://208.69.139.109:50000";
 
