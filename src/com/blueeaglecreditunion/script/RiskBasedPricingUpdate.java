@@ -135,6 +135,10 @@ public class RiskBasedPricingUpdate {
         return s;
     }
 
+
+
+
+
     public static void main(String[] args) throws Throwable {
         String javaClass = "-javaClass=com.blueeaglecreditunion.script.RiskBasedPricingUpdate";
         String javaMethod = "-javaMethod=runScript";
